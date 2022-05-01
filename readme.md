@@ -22,7 +22,7 @@
 <hr>
 
 <h2>Live Link For The Project:</h2>
-<p>https://trywindows11clone.netlify.app/</p>
+<p>https://crossfitplanet.netlify.app/</p>
 
 <h2>Screenshots of the Project:</h2>
 
